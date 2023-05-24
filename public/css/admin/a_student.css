@@ -1,0 +1,11 @@
+body {
+    background-color: #F9F9F9;
+  }
+
+  .container .table img {
+    float: left;
+    margin: auto;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+  }
